@@ -212,6 +212,22 @@ Crypto – Token generation and session security
 
 Custom Middleware – Auth protection and error handling
 
+This section features a brief description of the barber, along with a “Contact Me” button. When clicked, the button smoothly scrolls the user to the bottom of the page, where the barber’s contact details are displayed (such as phone number, email, or location).
+
+It’s designed to give a quick introduction and make it easy for potential clients to get in touch.
+
+
+
+
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/b770d812-0a4f-4325-a4de-fac481a1624e)
+
+
 🛠 Skills Gained
 Technical Skills:
 Backend architecture using Express.js
